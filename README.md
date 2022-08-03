@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://dm-order-summary-component-main.netlify.app/)
+- Live Site URL: (https://dm-stats-preview.netlify.app/)
 
 ## My process
 
